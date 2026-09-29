@@ -1,0 +1,97 @@
+{
+  "ok": true,
+  "frames_root": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/rows/jumping/frames",
+  "states": [
+    "jumping"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/rows/jumping/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15577,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 315
+        },
+        {
+          "index": 1,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/rows/jumping/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12048,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 212
+        },
+        {
+          "index": 2,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/rows/jumping/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12768,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 226
+        },
+        {
+          "index": 3,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/rows/jumping/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11606,
+          "bbox": [
+            32,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 195
+        },
+        {
+          "index": 4,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/rows/jumping/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16497,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 329
+        }
+      ]
+    }
+  ]
+}

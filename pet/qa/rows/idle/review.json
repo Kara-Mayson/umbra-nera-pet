@@ -1,0 +1,112 @@
+{
+  "ok": true,
+  "frames_root": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/rows/idle/frames",
+  "states": [
+    "idle"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/rows/idle/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10879,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 170
+        },
+        {
+          "index": 1,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/rows/idle/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10920,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 181
+        },
+        {
+          "index": 2,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/rows/idle/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10923,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 167
+        },
+        {
+          "index": 3,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/rows/idle/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10793,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 175
+        },
+        {
+          "index": 4,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/rows/idle/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10827,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 184
+        },
+        {
+          "index": 5,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/rows/idle/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10819,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 197
+        }
+      ]
+    }
+  ]
+}

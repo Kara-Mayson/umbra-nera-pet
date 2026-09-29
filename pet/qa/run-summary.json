@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera",
+  "spritesheet": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/final/spritesheet-extended.webp",
+  "validation": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/final/validation-extended.json",
+  "chroma_despill": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/chroma-despill-extended.json",
+  "contact_sheet": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/contact-sheet-extended.png",
+  "direction_sheet": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/look-directions.png",
+  "direction_semantics": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/direction-semantics.json",
+  "blind_direction_validation": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/direction-blind-validation.json",
+  "continuity": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/look-continuity.json",
+  "review": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/qa/review.json",
+  "package": "/Users/kirillstein/.codex/pets/umbra-nera"
+}

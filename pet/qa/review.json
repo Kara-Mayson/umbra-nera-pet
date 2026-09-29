@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10879,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 170
+        },
+        {
+          "index": 1,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10920,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 181
+        },
+        {
+          "index": 2,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10923,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 167
+        },
+        {
+          "index": 3,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10793,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 175
+        },
+        {
+          "index": 4,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10827,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 184
+        },
+        {
+          "index": 5,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10819,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 197
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12987,
+          "bbox": [
+            28,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 468
+        },
+        {
+          "index": 1,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13476,
+          "bbox": [
+            26,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 440
+        },
+        {
+          "index": 2,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12696,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 443
+        },
+        {
+          "index": 3,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15264,
+          "bbox": [
+            17,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 644
+        },
+        {
+          "index": 4,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13231,
+          "bbox": [
+            27,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 481
+        },
+        {
+          "index": 5,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13682,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 462
+        },
+        {
+          "index": 6,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12387,
+          "bbox": [
+            32,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 396
+        },
+        {
+          "index": 7,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14451,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 506
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13651,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 506
+        },
+        {
+          "index": 1,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13050,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 423
+        },
+        {
+          "index": 2,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13366,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 496
+        },
+        {
+          "index": 3,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15908,
+          "bbox": [
+            15,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 557
+        },
+        {
+          "index": 4,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12706,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 468
+        },
+        {
+          "index": 5,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13412,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 513
+        },
+        {
+          "index": 6,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13012,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 502
+        },
+        {
+          "index": 7,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15670,
+          "bbox": [
+            15,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 548
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10628,
+          "bbox": [
+            44,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 146
+        },
+        {
+          "index": 1,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11194,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 148
+        },
+        {
+          "index": 2,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11861,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 150
+        },
+        {
+          "index": 3,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10872,
+          "bbox": [
+            45,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 143
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15577,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 315
+        },
+        {
+          "index": 1,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12048,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 212
+        },
+        {
+          "index": 2,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12768,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 226
+        },
+        {
+          "index": 3,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11606,
+          "bbox": [
+            32,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 195
+        },
+        {
+          "index": 4,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16497,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 329
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10720,
+          "bbox": [
+            51,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 196
+        },
+        {
+          "index": 1,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10752,
+          "bbox": [
+            49,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 201
+        },
+        {
+          "index": 2,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10764,
+          "bbox": [
+            49,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 211
+        },
+        {
+          "index": 3,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10488,
+          "bbox": [
+            52,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 213
+        },
+        {
+          "index": 4,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10970,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 214
+        },
+        {
+          "index": 5,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11127,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 204
+        },
+        {
+          "index": 6,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10771,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 205
+        },
+        {
+          "index": 7,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10566,
+          "bbox": [
+            53,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 237
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12357,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 208
+        },
+        {
+          "index": 1,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12382,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 231
+        },
+        {
+          "index": 2,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12654,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 200
+        },
+        {
+          "index": 3,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12184,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 198
+        },
+        {
+          "index": 4,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12763,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 226
+        },
+        {
+          "index": 5,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12448,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 220
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9001,
+          "bbox": [
+            56,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 147
+        },
+        {
+          "index": 1,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9829,
+          "bbox": [
+            52,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 151
+        },
+        {
+          "index": 2,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9344,
+          "bbox": [
+            56,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 125
+        },
+        {
+          "index": 3,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9424,
+          "bbox": [
+            54,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 143
+        },
+        {
+          "index": 4,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9542,
+          "bbox": [
+            53,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 159
+        },
+        {
+          "index": 5,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9090,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 146
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10936,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 153
+        },
+        {
+          "index": 1,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11125,
+          "bbox": [
+            49,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 166
+        },
+        {
+          "index": 2,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10428,
+          "bbox": [
+            52,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 163
+        },
+        {
+          "index": 3,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10826,
+          "bbox": [
+            51,
+            5,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 176
+        },
+        {
+          "index": 4,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10879,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 162
+        },
+        {
+          "index": 5,
+          "file": "/Users/kirillstein/Documents/Codex/2026-09-26/new-chat-2/work/umbra-nera/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10775,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 148
+        }
+      ]
+    }
+  ]
+}
